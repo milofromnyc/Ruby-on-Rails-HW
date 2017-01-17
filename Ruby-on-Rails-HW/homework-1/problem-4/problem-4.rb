@@ -1,0 +1,1 @@
+A method can be modified to fit what you want it to while the return option give you one specific result.
