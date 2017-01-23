@@ -4,13 +4,13 @@ def full_name(first_name, last_name, title)
 # In this section we see else if statements. The Name would print the title, nil, first_name, nil and Last_name. 
   if title && first_name && last_name
     name = title + ' ' + first_name + ' ' + last_name
-
+# the name would be printed, but it would be comprised of (title + ' ' + last_name). it will also print it out because you are using a puts. 
   elsif title && last_name
     puts(name = title + ' ' + last_name)
-
+# Here it would print the first and last name. 
   elsif first_name && last_name
     puts(name = first_name + ' ' + last_name)
-
+# Here it would just print the first name. 
   elsif first_name
     puts(name = first_name)
 # When you make it to "raise" the code stops running and the exception is raised. 

@@ -1,10 +1,9 @@
-a = 1
-b = 2
-sum = a + b
-
 def add(a, b)
-	sum = a + b
-	puts(sum)
-	
+	return a + b
 end
- sum = add (a, b)
+
+puts add(1 , 2)
+
+lost = add(3 , 4)
+
+puts lost
