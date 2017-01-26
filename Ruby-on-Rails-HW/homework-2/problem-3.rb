@@ -1,0 +1,2 @@
+# An instance vaiable works just like and any class vairiable, but they are now shared with any subclass. Meaning it stands alone. 
+# an integer can work as a variable as well as a means of combining two variables together. Such as addition. 
